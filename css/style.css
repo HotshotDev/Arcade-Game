@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(15, 15, 15):
+    padding: 20px;
+    border: solid grey 2px;
+    border-radius: 3px;
+    width: 250px;
+    font-family: Verdana, trebuchet;
+    margin: 0 auto;
+}
+body {
+    background-image: url("../images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.HTP {
+  position: fixed;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+h2 {
+  text-decoration: underline;
+  font-size: 45px;
+  color: black;
+}
+ul.a {
+    list-style-type: circle;
+    color:black;
+}
